@@ -5,3 +5,7 @@ Paginated reports are designed to be printed or shared. They're called paginated
 
 ## YouTube :tv:
 * [Paginated Reports in Power BI - Beginner Tutorials](https://www.youtube.com/watch?v=78TZeiEhveY&list=PLx7LcKtN_gq-JVzM6L8xNNxX7kts-KflJ) - cfinlan
+
+
+## Tools
+* [Microsoft Power BI Report Builder](https://www.microsoft.com/en-us/download/details.aspx?id=58158)
